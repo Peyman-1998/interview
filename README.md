@@ -56,7 +56,7 @@ My background in **Electrical Engineering** and **Smart Grid Systems** enables m
 📍 Shiraz, Iran  
 📧 [a.rasouli@hafez.shirazu.ac.ir](mailto:a.rasouli@hafez.shirazu.ac.ir)  
 🌐 [My Website](https://www.my-web-site.com)  
-🔗 [LinkedIn](https://www.my-linkedin.com)
+🔗 [LinkedIn]([https://www.my-linkedin.com](https://www.linkedin.com/in/abdolsalam-rasouli-b9217619b/))
 
 ---
 
