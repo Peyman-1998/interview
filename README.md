@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdolsalam Rasouli 👋</h1>
 
 <p align="center">
-  💡 AI Engineer • ⚡ Electrical Engineer • 🔧 Full-Stack Developer
+  💡 AI Engineer • ⚡ Electrical Engineer
 </p>
 
 ---
